@@ -1,4 +1,3 @@
-# client.py
 import socket
 import numpy as np
 import time
