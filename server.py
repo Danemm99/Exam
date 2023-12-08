@@ -1,4 +1,3 @@
-# server.py
 import socket
 import threading
 from concurrent.futures import ThreadPoolExecutor
